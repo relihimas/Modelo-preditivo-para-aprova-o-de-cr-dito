@@ -1,3 +1,4 @@
-# Modelo-preditivo-para-aprova-o-de-cr-dito
+Neste repositório:
 
-modelo criado para vaga da empresa datarisk.
+- Modelo Preditivo de Análise de Crédito
+- Modelo Preditivo de Churn
